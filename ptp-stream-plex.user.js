@@ -10,5 +10,6 @@
 
     'use strict';
     console.log("This userscript is hosted in github")
+    console.log('Some update');
 
 })();
