@@ -4,7 +4,6 @@
 // @version      1.0
 // @match        https://passthepopcorn.me/*
 // @grant        none
-// @updateURL    https://github.com/cc-coding3/ptp-stream-plex/raw/master/ptp-stream-plex.user.js
 // ==/UserScript==
 
 (function() {
