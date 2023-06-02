@@ -1,1 +1,1 @@
-export let message = "this is my message";
+export default message = "this is my message";

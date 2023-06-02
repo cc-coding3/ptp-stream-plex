@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PTP - Stream Plex
 // @namespace    http://tampermonkey.net/
-// @version      1.44
+// @version      1.45
 // @match        https://passthepopcorn.me/*
 // @require      https://github.com/cc-coding3/ptp-stream-plex/raw/master/test-import.js
 // @grant        none
