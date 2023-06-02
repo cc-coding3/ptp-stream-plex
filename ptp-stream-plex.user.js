@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name         PTP - Stream Plex
 // @namespace    http://tampermonkey.net/
-// @version      1.42
+// @version      1.43
 // @match        https://passthepopcorn.me/*
-// @import       /test-import.js
+// @require      https://github.com/cc-coding3/ptp-stream-plex/raw/master/test-import.js
 // @grant        none
 
-import { message } from './test-import.js';
 // ==/UserScript==
 
 (function() {
