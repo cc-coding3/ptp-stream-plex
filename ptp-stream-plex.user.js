@@ -6,7 +6,7 @@
 // @import       /test-import.js
 // @grant        none
 // import { message } from './test-import.js';
-import { message } from './test-import.js';
+
 // ==/UserScript==
 
 (function() {
